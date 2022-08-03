@@ -1,5 +1,5 @@
 # 💫 About Me:
-🦾 I'm currently working on a Real Estate Web<br>Application with PHP<br><br>👯‍♂️ I'm looking to collaborate on interesting projects 😉<br><br>🌱 I'm currently learning PHP<br><br> ⚡ Fun Fact: I'm also a UI/UX Designer!
+🦾 I'm currently working on a Real Estate Web<br>Application with PHP<br><br>👯‍♂️ I'm looking to collaborate on interesting projects 😉<br><br>🌱 I'm currently learning everything I can 😁<br><br> ⚡ Fun Fact: I'm also a UI/UX Designer!
 
 
 ## 🌐 Socials:
