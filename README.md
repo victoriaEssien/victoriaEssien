@@ -1,5 +1,5 @@
 # 💫 About Me:
-🦾 I'm currently learning JavaScript <br><br>👯‍♂️ I'm looking to collaborate on interesting projects 😉<br><br>🌱 I'm currently learning everything I can 😁<br><br> ⚡ Fun Fact: I'm also a UI Designer
+🦾 I'm currently learning JavaScript <br><br>👯‍♂️ I'm looking to collaborate on interesting projects 😉<br><br>🌱 I'm currently working to be a fullstack dev 😁<br><br> ⚡ Fun Fact: I'm also a UI Designer
 
 
 ## 🌐 Socials:
