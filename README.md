@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@theCodeBreaker](https://medium.com/@theCodeBreaker)
 
-- 💬 Ask me about **HTML, CSS(Bootstrap), VanillaJS, PHP, MySQL, Flutter, UI/UX Design(Figma)**
+- 💬 Ask me about **HTML, CSS(Bootstrap), VanillaJS, PHP, MySQL, Flutter, Firebase, UI/UX Design(Figma)**
 
 - 📫 How to reach me **victoriaessien857@gmail.com**
 
