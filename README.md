@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **🤐**
 
-- 🌱 I’m currently learning **Flutter and Firebase**
+- 🌱 I’m currently learning the **MERN stack**
 
 - 👯 I’m looking to collaborate on **any exciting web or mobile based projects 😉**
 
 - 📝 I regularly write articles on [https://medium.com/@theCodeBreaker](https://medium.com/@theCodeBreaker)
 
-- 💬 Ask me about **HTML, CSS(Bootstrap), VanillaJS, PHP, MySQL, Flutter, UI/UX Design(Figma)**
+- 💬 Ask me about **HTML, CSS(Bootstrap), VanillaJS, PHP, MySQL, Flutter, React, UI/UX Design(Figma)**
 
 - 📫 How to reach me **victoriaessien857@gmail.com**
 
