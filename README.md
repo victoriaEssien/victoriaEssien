@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [Project Haven](https://projecthaven.netlify.app/)
 
-- 🌱 I’m currently learning the **MERN stack**
+- 🌱 I’m currently exploring **Frontend Development with various technologies**
 
 - 👯 I’m looking to collaborate on **any exciting web or mobile based projects 😉**
 
 - 📝 I regularly write articles on [https://medium.com/@theCodeBreaker](https://medium.com/@theCodeBreaker)
 
-- 💬 Ask me about **HTML, CSS(Bootstrap), VanillaJS, PHP, MySQL, Flutter, React, UI/UX Design(Figma)**
+- 💬 Ask me about **HTML, CSS(Bootstrap), VanillaJS, PHP, MySQL, Flutter, React, UI/UX Design (Figma)**
 
 - 📫 How to reach me **victoriaessien857@gmail.com**
 
