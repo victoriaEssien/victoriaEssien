@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **HTML, CSS(Bootstrap), VanillaJS, PHP, MySQL, Flutter, React, UI/UX Design (Figma)**
 
-- 📫 How to reach me **victoriaessien857@gmail.com**
+- 📫 How to reach me **ebongvictoria.452@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
