@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on [LockBox](https://lockbox.vercel.app)<br><br>🌱 I’m currently exploring Frontend Development with various technologies<br><br>👯 I’m looking to collaborate on any exciting web or mobile based projects 😉<br><br>📝 I regularly write articles on [Substack](https://essienvictoria.substack.com/)<br><br>💬 Ask me about HTML, CSS, TailwindCSS VanillaJS, MySQL, React.js, Next.js, UI/UX Design (Figma)<br><br><br><br> 
+🔭 I'm currently working on Valt<br><br>🌱 I’m currently exploring Frontend Development with various technologies<br><br>👯 I’m looking to collaborate on any exciting web or mobile based projects 😉<br><br>📝 I regularly write articles on [Substack](https://essienvictoria.substack.com/)<br><br>💬 Ask me about HTML, CSS, TailwindCSS VanillaJS, MySQL, React.js, Next.js, UI/UX Design (Figma)<br><br><br><br> 
 
 
 ## 🌐 Socials:
